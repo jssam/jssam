@@ -13,10 +13,10 @@
 
 <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-jssam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanyam-jain-81b6b2188/)](https://www.linkedin.com/in/sanyam-jain-81b6b2188/)
-[![Instagram Badge](https://img.shields.io/badge/-jssam-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/jsam002)](https://instagram.com/jsam002)
-[![Gmail Badge](https://img.shields.io/badge/-jssam-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jains3099@gmail.com)](mailto:jains3099@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/jssam-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/jssam002)
+[![Linkedin Badge](https://img.shields.io/badge/-Sanyam_Jain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanyam-jain-81b6b2188/)](https://www.linkedin.com/in/sanyam-jain-81b6b2188/)
+[![Instagram Badge](https://img.shields.io/badge/-jsam002-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/jsam002)](https://instagram.com/jsam002)
+[![Gmail Badge](https://img.shields.io/badge/-jains3099@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jains3099@gmail.com)](mailto:jains3099@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/Sanyam_Jain-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/jssam002)
 [![whatsapp](https://img.shields.io/badge/-Whatsapp-075E54?style=flat-square&url=https%3A%2F%2Fwhatsapp.com&logo=Whatsapp&logoColor=white)](https://wa.me/9711229257)
 
 <br />
@@ -26,19 +26,20 @@
 ## 🔥 Technologies
 
 <br />
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React Native](https://img.shields.io/badge/-React_Native-purple?style=flat-square&logo=react)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ### Next on stack! 😉
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
 
 
