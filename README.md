@@ -39,6 +39,6 @@
 
 ### Next on stack! 😉
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![React Native](https://img.shields.io/badge/-React Native-black?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react)
 
 
