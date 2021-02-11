@@ -21,7 +21,7 @@
 
 <br />
 
-![trophy](https://github-profile-trophy.vercel.app/?username=jssam&margin-w=35&theme=nord&rank=S,AAA,AA,A)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jssam" alt="jssam" /></a> </p>
 
 ## 🔥 Technologies
 
