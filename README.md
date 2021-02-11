@@ -42,5 +42,7 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
+<br/>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jssam_icons=true&locale=en&layout=compact" alt="atharvjairath" /></p>
 
