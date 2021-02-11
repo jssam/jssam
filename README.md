@@ -44,5 +44,5 @@
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jssam_icons=true&locale=en&layout=compact" alt="atharvjairath" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jssam&show_icons=true&locale=en&layout=compact" alt="jssam" /></p>
 
