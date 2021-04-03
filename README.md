@@ -17,7 +17,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-jsam002-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/jsam002)](https://instagram.com/jsam002)
 [![Gmail Badge](https://img.shields.io/badge/-jains3099@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jains3099@gmail.com)](mailto:jains3099@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/Sanyam_Jain-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/jssam002)
-[![whatsapp](https://img.shields.io/badge/-Whatsapp-075E54?style=flat-square&url=https%3A%2F%2Fwhatsapp.com&logo=Whatsapp&logoColor=white)](https://wa.me/9711229257)
+
 
 <br />
 
